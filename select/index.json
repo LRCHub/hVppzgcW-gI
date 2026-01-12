@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "チロル",
+  "base_artist": "成田あより",
+  "createdAt": "2026-01-12T12:22:53.916941Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "チロル",
+      "artist": "成田あより",
+      "has_synced": false,
+      "path": "select/pl_01_チロル_成田あより.txt"
+    }
+  ]
+}
